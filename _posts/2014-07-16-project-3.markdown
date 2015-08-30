@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: yugi.jpg
+alt: image-alt
+project-date: March 2015
+client: Yugi Game
+category: Java Game Development
+description: Made Yugioh Card Game with Java Swing during "CSEN 401 Computer Programming Lab" course, Download Link <a href="https://www.dropbox.com/s/61si7jge7xigkn8/Yugi.rar?dl=0">Yugi Game</a>.
+
+---

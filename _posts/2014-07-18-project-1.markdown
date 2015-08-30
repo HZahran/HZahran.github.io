@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ieee.png
+alt: image-alt
+project-date: September 2014
+client: IEEE GUC SB
+category: Web Development
+description: IT member at <a href="http://ieeeguc.org/">IEEE GUC Student Branch</a>
+---

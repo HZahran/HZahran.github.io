@@ -1,0 +1,48 @@
+# Site settings
+title: Hisham Zahran
+email: hmzahran@gmail.com
+url: https://hzahran.github.io
+description: "A 3rd year 'German University in Cairo' Computer Science student"
+skills: "Android Developer - Competitive Programmer - Graphic Animator"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/hmzahran
+  - title: facebook
+    url: https://www.facebook.com/hmzahran
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/5013564/hisham-zahran
+  - title: bitbucket
+    url: https://bitbucket.org/HZahran
+  - title: github
+    url: https://github.com/HZahran
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 58 Phase 114 , Madinaty 
+  - line: Cairo , Egypt
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

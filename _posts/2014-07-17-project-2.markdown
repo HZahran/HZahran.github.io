@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: nawwar.jpg
+alt: image-alt
+project-date: July 2015
+client: Nawwar GUC
+category: Animation
+description: Graphic Animator At Nawwar Club GUC , Which aims mainly to develop new different way of education in Egypt through simple videos & interactive games , Facebook link <a href="https://www.facebook.com/NawwarGUC">Nawwar GUC</a>
+
+---

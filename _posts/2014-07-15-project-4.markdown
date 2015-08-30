@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: extremesolution.png
+alt: image-alt
+project-date: July 2014
+client: Extreme Solution
+category: Android Development
+description: Android Developer at <a href="http://www.extremesolution.com/">Extreme Solution</a>
+
+---

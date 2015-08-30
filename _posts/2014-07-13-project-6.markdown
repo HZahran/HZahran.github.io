@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: acm.png
+alt: image-alt
+project-date: February 2014
+client: ACM
+category: Competitive Programming
+description: Attended ACM ECPC Nationals 2014 , got 50th Place (Team "Code Of Duty").
+
+---
