@@ -3,7 +3,7 @@ title: Hisham Zahran
 email: hmzahran@gmail.com
 url: https://hzahran.github.io
 description: "A 3rd year 'German University in Cairo' Computer Science student"
-skills: "Android Developer - Competitive Programmer - Graphic Animator"
+skills: "Android Developer - MEAN Stack Developer - Graphic Animator"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -37,11 +37,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 58 Phase 114 , Madinaty 
+  - line: 58 Group 114 , Madinaty 
   - line: Cairo , Egypt
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
